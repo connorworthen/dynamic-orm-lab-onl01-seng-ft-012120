@@ -58,4 +58,4 @@ class InteractiveRecord
         DB[:conn].execute(sql)
     end
 
-end 4
+end 
